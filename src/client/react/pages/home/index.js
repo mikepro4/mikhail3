@@ -24,7 +24,7 @@ class Home extends Component {
 		return (
      		<div className="page-container">
                  {this.renderHead()}
-                Home Updated 4
+                Home Updated 5
             </div>
 				
 		);
